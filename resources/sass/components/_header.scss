@@ -1,0 +1,15 @@
+/*------------------------------------------------ 
+	Header Structure
+------------------------------------------------*/
+.header{
+	z-index: 99;
+	.header-wrapper{
+		height: 60px;
+	}
+	.right-header{
+		width : 25%;
+	}
+	a{
+		color: #fff;
+	}
+}
